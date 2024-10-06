@@ -3,3 +3,4 @@ I setup a home lab using Elastic SIEM and a Kali VM. I configured data forwardin
 
 
 
+![image](https://github.com/user-attachments/assets/87341570-cbd4-4b3e-bfdc-b70602b3bfc7)
